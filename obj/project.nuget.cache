@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x/kHNzk2LJGnr2BvbvgLDtOUa5gaLbIUwW2nHZv216t/aWLWSa0m2zrdU5KVwW/W59jYTswklJWWZeE/OjZGyA==",
+  "dgSpecHash": "w69ojWPwmgjwEArC08aXiB27JR9kAPF1y1PpiX3AQFzJns3foQ8HfRiUzTN92pbE44Q7zRqgzEWh9DFkjT0aGg==",
   "success": true,
-  "projectFilePath": "/Users/jim/Projects/VS Project/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
+  "projectFilePath": "/Users/jim/Projects/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
   "expectedPackageFiles": [
     "/Users/jim/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/jim/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

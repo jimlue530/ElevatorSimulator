@@ -4774,11 +4774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jim/Projects/VS Project/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
+      "projectUniqueName": "/Users/jim/Projects/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
       "projectName": "ElevatorSimulator",
-      "projectPath": "/Users/jim/Projects/VS Project/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
+      "projectPath": "/Users/jim/Projects/ElevatorSimulator/ElevatorSimulator/ElevatorSimulator.csproj",
       "packagesPath": "/Users/jim/.nuget/packages/",
-      "outputPath": "/Users/jim/Projects/VS Project/ElevatorSimulator/ElevatorSimulator/obj/",
+      "outputPath": "/Users/jim/Projects/ElevatorSimulator/ElevatorSimulator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jim/.nuget/NuGet/NuGet.Config"
